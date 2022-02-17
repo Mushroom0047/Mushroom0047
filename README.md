@@ -29,18 +29,20 @@
 <br>
 </p>
 
+
 <h2> About Me <img src = "https://media.giphy.com/media/huDg8m5llbZKxvLAYQ/giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently studying **Programmer analyst** 
+- 🔭 I'm titled from **Programmer analyst** 
 
-- 🌱 I’m currently learning **JavaScript and C# **
+- 🌱 I’m currently learning **React **
 
-- 💬 Talk to me about Videogames :) 
+- 💬 Talk to me about Videogames :) or Music 🎶
 
 
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushroom0047&theme=default" />
 </a>
+
 
 
 <footer align='center'><a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'></a> </footer>
