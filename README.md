@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React & Node**
 
-- 👨‍💻 All of my projects are available at [https://hectorvaldesm.com/](https://hectorvaldesm.com/)
+- 👨‍💻 All of my projects are available at [portfolio | hectorvaldesm.com](https://hectorvaldesm.com/)
 
 - 💬 Ask me about **JavaScript !**
 
 - 📫 How to reach me **hectorvaldesm47@gmail.com**
 
-- 📄 Know about my experiences [https://hectorvaldesm.com/assets/CV%20Hector%20Valdes%20M%20v.04-2023.pdf](https://hectorvaldesm.com/assets/CV%20Hector%20Valdes%20M%20v.04-2023.pdf)
+- 📄 Know about my experiences [Curriculum](https://hectorvaldesm.com/assets/Hector%20Valdes%20M%20cv%20v10-2023.pdf)
 
 - ⚡ Fun fact **I'm a Gamer and Pixel Artist**
 
