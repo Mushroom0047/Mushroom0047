@@ -7,17 +7,19 @@
 
 - 👨‍💻 All of my projects are available at [portfolio | hectorvaldes.dev](https://hectorvaldes.dev/)
 
-- 💬 Ask me about **JavaScript !** and videogames
+- 💬 Ask me about **JavaScript** and videogames
 
-- 📫 How to reach me **hectorvaldesm47@gmail.com**
+- 📫 How to reach me: **hectorvaldesm47@gmail.com**
 
-- 📄 Know about my experiences [Curriculum]([https://hectorvaldes.dev/assets/Hector%20Valdes%20M%20cv%20v10-2023.pdf](https://hectorvaldes.dev/assets/Hector%20Valdes%20M%20cv%20v02-2024-b70alAWp.pdf))
+- 📄 Know about my experiences in my [Curriculum](https://hectorvaldes.dev/assets/Hector%20Valdes%20M%20cv%20v02-2024-b70alAWp.pdf)
 
-- ⚡ Fun fact **I'm a Gamer and Pixel Artist** and I`ve a store pixel art style paintings and decorative pieces made with legos, check it out in [brickpicture.cl](https://brickpicture.cl)
+- ⚡ Fun fact: **I'm a Gamer and Pixel Artist**. I also run a store featuring pixel art style paintings and decorative pieces made with Legos—check it out at [brickpicture.cl](https://brickpicture.cl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hector-valdes-m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h%c3%a9ctor-vald%c3%a9s-m" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hector-valdes-m/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Héctor Valdés M" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
