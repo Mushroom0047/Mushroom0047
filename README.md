@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Héctor Valdés M.</h1>
 <h3 align="center">A programmer analyst graduated from Inacap with experience in web development.</h3>
 
-- 🔭 I’m currently working on [What Could Have Been](https://github.com/Mushroom0047/My-Journey)
+- 🔭 I’m currently working on [Shadow Past]([https://hvgamestudio.itch.io/shadow-past]))
 
 - 🌱 I’m currently learning **Godot**
 
